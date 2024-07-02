@@ -17,5 +17,5 @@ Discord: zeriumwashere_99
 
 🎮 For a little preview,here is the game icon
 
-![OIG3](https://github.com/Crashino/Dark-Knight-Arena/assets/101067257/d72e9e2f-84a2-4fbc-9401-caddcd77447f)
+![OIG3](https://mega.nz/file/uWJlwKAY#WI2nhiw5jG2kCg5ZG5Ad_fDYNkMB3DVvzolYM9RBbow)
 
