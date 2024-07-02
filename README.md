@@ -8,7 +8,7 @@ The are various game modes,for example we have the story/campaign mode,with an i
 To download the game,you must have Windows 8,Windows 8.1,Windows 10 or Windows 11.
 
 ----- 💾 Game Download -----
-To download the game,go on the official mediafire page: https://www.mediafire.com/file/3njgjysl1rq6wdi/Dark_Knight_Arena.exe/file
+To download the game,go on the official mediafire page: https://mega.nz/file/uWJlwKAY#WI2nhiw5jG2kCg5ZG5Ad_fDYNkMB3DVvzolYM9RBbow
 
 DOWNLOAD THE GAME ONLY FROM THIS LINK,IF SOMEONE GIVES YOU A DIFFERENT LINK IT MAY CONTAIN A MALWARE.
 
@@ -16,6 +16,7 @@ DOWNLOAD THE GAME ONLY FROM THIS LINK,IF SOMEONE GIVES YOU A DIFFERENT LINK IT M
 Discord: zeriumwashere_99
 
 🎮 For a little preview,here is the game icon
+![OIG3](https://github.com/Crashino/Dark-Knight-Arena/assets/101067257/b969ae4f-c5b3-44d0-9ef4-763f2ef82514)
 
-![OIG3](https://mega.nz/file/uWJlwKAY#WI2nhiw5jG2kCg5ZG5Ad_fDYNkMB3DVvzolYM9RBbow)
+
 
